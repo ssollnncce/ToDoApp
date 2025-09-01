@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MIndBox/static/css/main.44432bcf.css",
+    "main.js": "/MIndBox/static/js/main.c1c8542e.js",
+    "index.html": "/MIndBox/index.html",
+    "main.44432bcf.css.map": "/MIndBox/static/css/main.44432bcf.css.map",
+    "main.c1c8542e.js.map": "/MIndBox/static/js/main.c1c8542e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44432bcf.css",
+    "static/js/main.c1c8542e.js"
+  ]
+}
